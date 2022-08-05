@@ -19,9 +19,9 @@
 
 void print_array(int arr[], int n);
 void import_array(int *arr, int n);
+void sort_array(int *arr, int n);
 
 int find_minimum(int *arr, int n);
 int find_maximum(int *arr, int n);
 int find_mean(int *arr, int n);
 float find_median(int *arr, int n);
-void sort_array(int *arr, int n);
