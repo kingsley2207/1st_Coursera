@@ -1,1 +1,1 @@
-xin chao! day la project dau tien!
+Name: Minh Quan Tran
